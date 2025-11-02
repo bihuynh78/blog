@@ -40,6 +40,10 @@ a:active {
     text-decoration-color: whitesmoke
 }
 
+a:visited {
+  color: white;
+}
+
 
 main {
     padding: 20px;
